@@ -53,6 +53,7 @@ int main(){
             printf("Case %d: ITALIAN\n",i);
        }
 
+
        else if(x=funtion(s,s6)){
             printf("Case %d: RUSSIAN\n",i);
        }
